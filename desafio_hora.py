@@ -1,3 +1,4 @@
+#Propoção 24:12
 hora1 = int(input("Hora1: "))
 min1 = int(input("Minuto1: "))
 hora2 = int(input("Hora2: "))
