@@ -12,4 +12,9 @@ if hora_final > 12:
         hora_final -= 12
 print(f"entrada 1: {hora1}:{min1}")
 print(f"entrada 2: {hora2}:{min2}")
-print(f"saida : {hora_final}:{minuto_final}")
+print(f"saida : {hora_final}:{minuto_final:02d}")
+
+
+
+
+
